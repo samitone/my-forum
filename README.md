@@ -1,2 +1,24 @@
-# my-forum
-Personal Development project to gain improve skills as a full stack developer. A forum site that allows users to interact with tv shows directly and socially.
+# my-vue-app
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
